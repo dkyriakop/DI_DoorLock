@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "blynk-library": "0.0.41",
+    "express": "^4.16.2",
+    "node-pi-motion": "^1.1.3",
     "onoff": "^1.1.1",
     "pigpio": "^0.4.0"
   }
