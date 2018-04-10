@@ -1,10 +1,12 @@
-# Smartphone-Doorlock
+# D&I Team Smartphone-Doorlock
 
-![alt text](https://www.cosmotehackathon.gr/invitation/Hacka_small.png)
+![alt text](http://www.cosmotehackathon.gr/di_doorlock/door1.png)
 
-Doorlock that can be locked or unlocked through your smartphone
+D&I Team Doorlock IoT Mobile App that can be used to lock / unlock the door  through the smartphone.
 
 You’ll want to make sure you have [node.js](https://nodejs.org/en/) installed on your Raspberry Pi. Adafruit has a nice guide on their [website](https://learn.adafruit.com/node-embedded-development/installing-node-dot-js).
+
+![alt text](http://www.cosmotehackathon.gr/di_doorlock/door2.jpg)
 
 ## Installation
 Navigate to the folder you want to clone the repository and type
