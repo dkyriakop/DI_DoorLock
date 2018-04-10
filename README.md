@@ -1,4 +1,7 @@
 # Smartphone-Doorlock
+
+![alt text](https://www.cosmotehackathon.gr/invitation/Hacka_small.png)
+
 Doorlock that can be locked or unlocked through your smartphone
 
 You’ll want to make sure you have [node.js](https://nodejs.org/en/) installed on your Raspberry Pi. Adafruit has a nice guide on their [website](https://learn.adafruit.com/node-embedded-development/installing-node-dot-js).
